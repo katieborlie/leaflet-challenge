@@ -54,7 +54,7 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 
     * Your data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear darker in color.
 
-    * #### *HINT:* *The depth of the earth can be found as the third coordinate for each earthquake.*
+    * #### *HINT:* The depth of the earth can be found as the third coordinate for each earthquake.
 
   * Include popups that provide additional information about the earthquake when its associated marker is clicked.
 
